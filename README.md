@@ -80,7 +80,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-1. The dataset was sourced from the [YBI Foundation] (https://github.com/YBI-Foundation/Dataset/blob/main/Movies%20Recommendation.csv).
+1. The dataset was sourced from the [YBI Foundation] `https://github.com/YBI-Foundation/Dataset/blob/main/Movies%20Recommendation.csv`.
 2. Special thanks to the creators and maintainers of the dataset.
 
 
